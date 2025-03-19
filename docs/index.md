@@ -30,3 +30,13 @@ Para aprovechar al máximo esta documentación, asegúrate de tener:
 - Conocimientos básicos de programación
 - Entorno de desarrollo configurado
 - Ganas de aprender y experimentar
+
+👍 Espero que hayas conseguido desplegar la documentacion con éxito!
+
+### Licencia
+
+MIT
+
+### Autor
+
+Daniel Martiñán Otero
